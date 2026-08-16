@@ -2,6 +2,9 @@
 RSDKv5 and Sonic Mania decompilation modified to make the entire game fit in 20MB (data embedded in executable).
 
 # How to build
+
+If you wanna see the entire process, [I recorded everything on a fresh install of Windows 10!](https://www.youtube.com/watch?v=BGkIStEQ4CQ)
+
 You will need:
   - [MSYS2](https://www.msys2.org/)
   - `Data.rsdk` from your copy of Sonic Mania (Plus update)
