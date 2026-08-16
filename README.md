@@ -24,8 +24,8 @@ Navigate to a folder that's easily accessible. For this we'll build in `C:\mania
 ```
 mkdir /c/mania20
 cd /c/mania20
-git clone https://github.com/ThisKwasior/Sonic-Mania-25MB.git
-cd Sonic-Mania-25MB
+git clone https://github.com/ThisKwasior/Sonic-Mania-20MB.git
+cd Sonic-Mania-20MB
 ```
 
 Copy `Data.rsdk` into the `Data-rsdk` folder.
@@ -35,7 +35,7 @@ Run this command to compress the Data file:
 ```
 ./convert_everything.sh
 ```
-After around 20 minutes you'll see `Data-small.rsdk.zlib` in the folder at around 20MB.
+After around 20 minutes you'll see `Data_Small.rsdk.zlib` in the folder at around 17,4MB.
 
 Next we will compile the game:
 ```
